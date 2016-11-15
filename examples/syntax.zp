@@ -1,0 +1,6 @@
+#lang env
+
+; A comment
+PATH
+somevar:  integer
+somevar2: list

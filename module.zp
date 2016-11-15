@@ -1,0 +1,14 @@
+#{:name "env"
+  :version "0.0.1"
+  :license "GPLv2"
+  :type :library
+  :tests []
+  :author #{:name "Veit Heller"
+            :email "veit@veitheller.de"
+            :github "@hellerve"}
+  :zepto #{:version ">=0.9.5"
+           :ez #f
+           :bz #f}
+  :dependencies ()
+  :dev-dependencies ()}
+
